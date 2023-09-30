@@ -13,9 +13,9 @@ MiPelis es una aplicación de películas desarrollada con Flutter 3 y siguiendo 
 - Historial de visualización para llevar un registro de las películas vistas.
 - Comparte tus opiniones y calificaciones sobre películas con otros usuarios.
 
-**Capturas de Pantalla:**
+<!-- **Capturas de Pantalla:** -->
 
-[Inserta capturas de pantalla aquí]
+
 
 **Cómo Contribuir:**
 
